@@ -2,7 +2,7 @@
 # that compress and decompress byte strings in Snappy format.
 #
 # NOTE: Adapted by Peter O. (github.com/peteroupc)
-# from snappy-js, which is licensed as follows.
+# from snappy-js (https://github.com/zhipeng-jia/snappyjs), which is licensed as follows.
 # The license and the copyright notice for snappy-js is reproduced below.
 #
 # The MIT License (MIT)
